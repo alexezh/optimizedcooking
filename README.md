@@ -1,6 +1,3 @@
-# build instructions
-layout: page
-title: "Optimize cooking"
 
 # variations on saute meat
 Examples: goulash, beef bourguignon,
@@ -18,7 +15,7 @@ Lately I prefer to keep lead slighlty opened to allow water to escape. In 1.5 ho
 
 Optional components
 - Onion - either yeallow or shallots or mix
-- adds lots of liquid, might need to adjust the overall amount of water
+-- adds lots of liquid, might need to adjust the overall amount of water
 - Mushrooms
 - Zuccini, pepers
 - better to add 30 min before completion, otherwise too mushy
