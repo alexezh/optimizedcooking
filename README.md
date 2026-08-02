@@ -4,9 +4,4 @@ As generative AI has proliferated, finding a straightforward recipe online has b
 
 The aim of the Optimized Cooking project is to provide a diverse selection of simple, efficient recipes, offering variety without the hassle.
 
-The recipes organized in two ways
-
-* [By kind of meal](https://github.com/alexezh/optimizedcooking/wiki/By-kind-of-meal) 
-* [By cooking process](https://github.com/alexezh/optimizedcooking/wiki/By-cooking-process)
-
-
+All content is on wiki (https://github.com/alexezh/optimizedcooking/wiki)
